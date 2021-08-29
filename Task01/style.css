@@ -1,0 +1,47 @@
+@charset "utf-8";
+
+body {
+	font-family: sans-serif;
+	line-height: 1.7;
+}
+.it {
+	color: #ff0000;
+	font-size: 65px;
+	text-align: center;
+}
+.it2 {
+        color: #0000ff;
+        font-size: 65px;
+        text-align: center;
+}
+
+.a1{
+	padding: 13px;
+	width: 22%;
+	border: 1px solid #0055cc;
+}
+.fast{
+	font-weight: bold;
+}
+.a2{
+        padding: 13px;
+        width: 22%;
+        border: 1px solid #0055cc;
+}
+.a1 h3{
+	margin: 2;
+}
+.waku{
+	padding: 16px;
+	border: 2px solid #095cdc;
+}
+a:hover {
+	color: #b7dbf2;
+}
+a:active {
+	color: #4f0000;
+}
+.top a {
+	padding-left: 8px;
+	background: url(./listmark.png) no-repeat left 0 top 4px
+}	
